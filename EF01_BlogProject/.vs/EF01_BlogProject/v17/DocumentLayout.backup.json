@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\EF01_BlogProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BBCF18-614F-4C0A-BAC5-5AD29A17ECF2}|EF01_BlogProject\\EF01_BlogProject.csproj|c:\\users\\dell\\source\\repos\\ef01_blogproject\\ef01_blogproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BBCF18-614F-4C0A-BAC5-5AD29A17ECF2}|EF01_BlogProject\\EF01_BlogProject.csproj|solutionrelative:ef01_blogproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EF01_BlogProject\\EF01_BlogProject\\Program.cs",
+              "RelativeDocumentMoniker": "EF01_BlogProject\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EF01_BlogProject\\EF01_BlogProject\\Program.cs",
+              "RelativeToolTip": "EF01_BlogProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:18:22.554Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
