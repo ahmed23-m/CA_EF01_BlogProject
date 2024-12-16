@@ -39,9 +39,6 @@ A full-stack blogging application built with **C#**, **Entity Framework Core**, 
    dotnet run
    ```  
 
-5. Access the application in your browser:  
-   Navigate to `http://localhost:5000`.  
-
 ## 🌟 Contributing  
 Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and create a pull request.  
 
@@ -52,5 +49,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Special thanks to the amazing .NET community for providing excellent resources and support!  
 
 ---  
-
-Feel free to update the placeholder values (like the repository URL or your username) before adding this to your GitHub repository. Let me know if you need help with anything else!
