@@ -15,17 +15,6 @@ A full-stack blogging application built with **C#**, **Entity Framework Core**, 
 - **LINQ**  
 - **MS SQL Server**  
 
-## 📂 Project Structure  
-```
-BlogProject/  
-├── Controllers/        # Handles HTTP requests  
-├── Models/             # Data models for the application  
-├── Views/              # User interface components  
-├── Data/               # Database context and migrations  
-├── wwwroot/            # Static files (CSS, JS, etc.)  
-└── Program.cs          # Application entry point  
-```  
-
 ## ⚙️ Setup and Installation  
 
 1. Clone the repository:  
